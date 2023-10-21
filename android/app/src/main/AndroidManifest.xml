@@ -3,6 +3,8 @@
         android:label="where_is_tarumt_toilet"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+        <meta-data android:name="com.google.android.geo.API_KEY"
+               android:value="AIzaSyDg8n6x0bqWf1480z3klVHqD8TZR3DOqQE"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
