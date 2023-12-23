@@ -1,0 +1,4 @@
+#Sun Nov 19 01:03:27 SGT 2023
+base.0=C\:\\Users\\wongj\\OneDrive\\Desktop\\github\\where_is_tarumt_toilet\\where_is_tarumt_toilet\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

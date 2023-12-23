@@ -1,0 +1,1 @@
+ C:\\Users\\wongj\\OneDrive\\Desktop\\github\\where_is_tarumt_toilet\\where_is_tarumt_toilet\\.dart_tool\\flutter_build\\a164c563a746c1c3ed255bfba444c341\\native_assets.yaml: 
